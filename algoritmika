@@ -1,0 +1,100 @@
+<html>
+    <title>Где водится злой лис?</title>
+    <body style = "background:purple;font-family:sans-serif;font-size:20px">
+        <header>
+            <a style = "color:white" href = "#algoritmika_kurgan">Ссылка на официальный сайт и вконтакте</a><br>
+            <a style = "color:white" href = "#kurs">Курсы</a>
+            <table>
+                <tr>
+                    <td><img src = "https://static.tildacdn.com/tild3361-6536-4539-a234-333937656638/rgb-logo-main.png" width ="150"></td>
+                    <td><b>Программирование</b></td>
+                    <td><b>Математика</b></td>
+                </tr>
+                <tr>
+                    <td>Международная школа<br>программирования и<br>математики</td>
+                </tr>
+            </table>
+        </header>
+        <main>
+            <h1 style = "color:white;font-size:50px;text-align:center">Алгоритмика</h1>
+            <table style = "text-align:left;color:purple;background:yellow;">
+                <tr>
+                    <td><h2 style = "font-size:40px">Суперсила
+<br>для суперзавтра</h2><h3 style = "font-size:30px">Со школой программирования
+<br>и математики  для детей <br>от 6 до 17 лет</h3></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/3fa4c1e.png" height="200px" width="200px" rowspan="2"></td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/23a58f2.png" height="120px"></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/7041212.png" height="100px"></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/f7dbb2b.png" height="80px"></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/a037f85.png" height="100px"></td>
+                </tr>
+                <tr style = "color:white">
+                    <td><b>Занятия с преподавателем,</b><br>который любит свой<br>предмет и знает, как увлечь им ребенка</td>
+                    <td><b>В группе до 12 человек,</b><br>чтобы учитель мог уделить<br> внимание каждому</td>
+                    <td><b>Вы сами выбираете формат обучения:</b>онлайн<br>или на удобной для вас<br>площадке</td>
+                    <td><b>Занятия с преподавателем,</b><br>который любит свой<br>предмет и знает, как увлечь им ребенка</td>
+                </tr>
+            </table>
+            <h2 style = "text-align:center;color:#602b7a;background:white">Учитесь в школе международного<br>уровня<br><img src = "https://kurgan.algoritmika.org/_nuxt/img/4d36591.png" height = "250px">
+Нам доверяют родители сотен тысяч детей по всему миру — от Нью-Йорка до Москвы.</h2>
+            <h2 id = "kurs" style = "color:white;">Выбирайте подходящий курс</h2>
+            <p style = "color:white;">Ребенок может начать с любого возраста. А по окончании курса — перейти на следующий, чтобы продолжить обучение и постепенно дорасти до уровня профессионального Python-разработчика.</p>
+            <p style = "color:white;">Факультет программирования</p>
+            <p style = "background:#f3ff69;text-align:center"><b style = "color:#602b7a;">6-7 лет<br>
+Основы логики и<br>программирования</b></p>
+            <p style = "background: #82f7ff;text-align:center"><b style = "color:#602b7a;">7-9 лет<br>
+Компьютерная<br>грамотность</b></p>
+            <p style = "background:#f44c75;text-align:center"><b style = "color:#602b7a;">9-10 лет<br>
+Визуальное<br>программирование</b></p>
+            <p style = "background:#ffb0cd;text-align:center"><b style = "color:#602b7a;">9-14 лет<br>
+Видеоблогинг</b></p>
+            <p style = "background:#ff5a50;text-align:center"><b style = "color:#602b7a;">9-14 лет<br>
+Графический<br>дизайн</b></p>
+            <p style = "background:#ffdb59;text-align:center"><b style = "color:#602b7a;">10-11 лет<br>
+Геймдизайн</b></p>
+            <p style = "background:#cbf86d;text-align:center"><b style = "color:#602b7a;">11-12 лет<br>
+Создание веб-сайтов</b></p>
+            <p style = "background:#8d30b9;text-align:center"><b style = "color:white">12-13 лет<br>
+Python Start</b></p>
+            <p style = "background:#491a60;text-align:center"><b style = "color:white">14-17 лет<br>
+Python Pro</b></p>
+            <p style = "background:#21fad3;text-align:center"><b style = "color:#602b7a;">7-12 лет<br>
+Мастерская<br>
+Ай Ти</b></p>
+            <table style = "background:white;color:#602b7a;border:3px solid violet">
+                <tr>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/830b8cf.png" height="100px"></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/8ab0dbe.png" height="100px"></td>
+                    <td><img src = "https://kurgan.algoritmika.org/_nuxt/img/3af69e9.png" height="80px"></td>
+                </tr>
+                <tr >
+                    <td><b>Улучшаем школьную успеваемость</b><br><br>
+Влюбляемся в точные науки, по-новому смотрим на скучные школьные предметы и добиваемся неожиданных успехов в школе</td>
+                    <td><b>Готовимся к перспективным профессиям</b><br>Прокачиваем математическое мышление и пробуем себя в самых перспективных IT-направлениях</td>
+                    <td><b>
+Развиваем универсальные навыки</b><br>Учимся критически мыслить, работать в команде и не бояться ошибок, чтобы быть востребованными в любой сфере</td>
+                </tr>
+            </table>
+        </main>
+        <footer style = "background:black;color:white">
+            <a id = "algoritmika_kurgan" href = "https://kurgan.algoritmika.org/ru" style = "color:white">Официальный сайт</a>
+            <a href = "https://vk.com/algoritmika_kurgan" ><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMjUiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zOC4zOTMgMS44NDJjLjMwMi0uOTA3IDAtMS42NjItMS4zNi0xLjY2MkgzMi44Yy0xLjA1OCAwLTEuNjYyLjYwNC0xLjgxMyAxLjIwOSAwIDAtMi4xMTcgNS41OTMtNS4yOSA5LjA3LTEuMDU5IDEuMDU3LTEuNTEyIDEuMzYtMS45NjYgMS4zNi0uMzAyLjE1LTEuMDU4LS4xNTItMS4wNTgtMS4wNTlWMS42OTFDMjIuNjczLjYzMyAyMi4wNy4xOCAyMS4xNjIuMThoLTYuMTk4Yy0uNjA0IDAtMS4wNTguNDUzLTEuMDU4IDEuMDU4IDAgMS4wNTggMS41MTIgMS4zNiAxLjY2MyA0LjM4M3Y2LjVjMCAxLjUxMS0uMzAzIDEuNjYyLS43NTYgMS42NjItMS41MTEgMC00Ljk4OC01LjU5Mi03LjEwNC0xMS45NEM3LjI1NS42MzIgNi44MDIuMTggNS43NDQuMThIMS41MTJDLjMwMi4xOCAwIC43ODQgMCAxLjM4OWMwIDEuMjEgMS41MTIgNy4xMDQgNi44MDIgMTQuODEzIDMuNjI4IDUuMjkgOC42MTYgOC4xNjIgMTMuMTUgOC4xNjIgMS4yMSAwIDIuNzIxLS40NTMgMi43MjEtMS41MTF2LTQuNTM1YzAtMS4yMS42MDUtMS4yMSAxLjM2LTEuMjEuNjA1IDAgMS42NjMuMzAzIDQuMjMzIDIuODczIDIuODcyIDMuMDIzIDMuMzI1IDQuMzgzIDQuOTg4IDQuMzgzaDQuMjMyYzEuMjEgMCAxLjgxNC0uNjA0IDEuNTEyLTEuOTY1LS40NTQtMS4yMDktMS44MTQtMy4wMjMtMy42MjgtNS4yOS0xLjA1OC0xLjIxLTIuNTctMi41Ny0zLjAyMy0zLjE3NC0uNjA1LS45MDctLjQ1NC0xLjIxIDAtMS45NjUuMzAyLjE1IDUuNDQxLTcuNTU4IDYuMDQ2LTEwLjEyOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
+            <p>Володарского, д. 57, оф. 307
+г.Курган. Томина д.53 оф.101
++7 (932) 317-77-88<br><br>
+
+
+Заозерный 2 мкрн, д.8. Библиотека Диалог
+2 мкрн, д.8
++7 (951) 264-02-48<br><br>
+
+
+Художественный музей
+г. Курган, ул. Максима Горького, 127/4</p>
+        </footer>
+    </body>
+</html>
